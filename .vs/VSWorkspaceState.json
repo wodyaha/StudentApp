@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentApp",
+    "\\StudentApp\\StudentApp",
+    "\\StudentApp\\StudentApp\\Data",
+    "\\StudentApp\\StudentApp\\Migrations",
+    "\\StudentApp\\StudentApp\\Models",
+    "\\StudentApp\\StudentApp\\obj"
+  ],
+  "SelectedNode": "\\StudentApp\\StudentApp\\StudentApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
